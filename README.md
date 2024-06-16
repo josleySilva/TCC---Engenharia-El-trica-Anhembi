@@ -1,6 +1,6 @@
 TCC de engenharia eletrica
 
-Faculdade : Anhembi Morumbin/
+Faculdade : Anhembi Morumbi
 Professor orientador: Marcelo Gomes De Paoli
 Coordenação do Curso de Engenharia Elétrica: Guilherme de Barros
 
