@@ -6,6 +6,7 @@ Coordenação do Curso de Engenharia Elétrica: Guilherme de Barros
 
 
 Resumo do Artigo
+
 Este estudo investiga a viabilidade da utilização do acelerômetro ADXL345 para o monitoramento de motores e a implementação de manutenção preditiva. 
 O dispositivo capta vibrações sutis para identificar anomalias e desgastes em componentes críticos, permitindo diagnósticos precoces e ações corretivas que evitam paradas inesperadas na produção. 
 O acelerômetro fornece dados essenciais sobre as condições do motor, facilitando a elaboração de um plano de manutenção preventiva otimizado, reduzindo manutenções desnecessárias e distribuindo recursos de forma eficiente, 
