@@ -16,7 +16,7 @@ integrados em uma estrutura impressa em 3D que pode ser acoplada aos motores.
 Palavras-chave: Acelerômetro. Manutenção Preditiva. Monitoramento de Condições. Análise de Vibração. Sensores de Vibração.
 
 
-O arquivo Fluxo está a programação JS do NODE-RED para supervisionar o sistema.
+O arquivo fluxo está a programação JS do NODE-RED para supervisionar o sistema.
 O arquivo readSQL está a programação da tratativa dos dados lidos e armazenados no banco de dados MySQL.
 O arquivo ESP_ADLX_rev7 está a programação da esp_32 que faz a leitura do acelerometro ADXL345.
 
